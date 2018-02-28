@@ -1,4 +1,4 @@
-# smartProductionLab
+# smartProductionLab Sommersemester 2018
 
 * Block 1: git Grundlagen
 * Block 2: Arbeiten mit git 
